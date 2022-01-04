@@ -56,15 +56,6 @@ and limitations under the License.
  */
 
 
-/**
- * @preserve
- * Authors: Handsoncode
- * Last updated: Nov 15, 2017
- *
- * Description: Definition file for English - United States language-country.
- */
-
-
 /*!
  * vue-client-only v0.0.0-semantic-release
  * (c) 2021-present egoist <0x142857@gmail.com>
@@ -78,3 +69,12 @@ and limitations under the License.
  */
 
 //! moment.js
+
+
+/**
+ * @preserve
+ * Authors: Handsoncode
+ * Last updated: Nov 15, 2017
+ *
+ * Description: Definition file for English - United States language-country.
+ */
